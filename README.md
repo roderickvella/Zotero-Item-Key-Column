@@ -5,6 +5,9 @@ The Item Key is the internal identifier used by Zotero (e.g., `ABCD1234`) and is
 - Linking references between devices
 - Scripting or API integrations
 
+![Screenshot showing the Item Key column](https://github.com/roderickvella/Zotero-Item-Key-Column/blob/main/images/screenshot.png?raw=true)
+
+
 ---
 
 ## Installation
