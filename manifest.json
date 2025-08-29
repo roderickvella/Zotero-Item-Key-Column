@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Item Key Column",
+  "version": "1.0.0",
+  "description": "Adds an 'Item Key' column to Zotero's item list.",
+  "applications": {
+    "zotero": {
+      "id": "item-key-column@rvella",
+      "update_url": "https://not-yet-setup.com/updates.json",
+      "strict_min_version": "7.0.0",
+      "strict_max_version": "7.0.*"
+    }
+  }
+}
