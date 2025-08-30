@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Item Key Column",
-  "version": "1.0.0",
-  "description": "Adds an 'Item Key' column to Zotero's item list.",
+  "name": "Item Key Visible",
+  "version": "1.0.1",
+  "description": "Adds an 'Item Key' column and Info-pane row to Zotero.",
   "applications": {
     "zotero": {
       "id": "item-key-column@rvella",
